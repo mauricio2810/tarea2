@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+}
+.x1{
+    background-color: blueviolet;
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.x2
+{
+    background-color: blueviolet;
+    height: 101px;
+    width: 600px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    border-radius: 100px;
+}
+.x2hijo{
+    font-size: 20px;
+    height: 20px;
+    width: 450px;
+    position: absolute;
+    top: 40px;
+    left: 120px;
+}
+.x3padre{
+    background-color: red;
+    height: 500px;
+    width: 600px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    border-radius: 1000px;
+}
+.x3h{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 100px;
+    left: 120px;
+    border-radius: 1000px;
+}
+.x4h
+{
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 1000px;
+}
+.xah{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    top: 100px;
+    right: 120px;
+    border-radius: 1000px;
+}
+.xbh
+{
+    
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    border-radius: 1000px;
+}
+.x5b{
+    background-color:  green;
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    border-radius: 1000px;
+}
+.x6b{
+    background-color:  yellow;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+    border-radius: 1000px;
+}
+.x4{
+    background-color:  blue;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    top: 180px;
+    left: 100px;
+    border-radius: 1000px;
+}
+.x5{
+    background-color:  blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 30px;
+    left: 400px;
+    border-radius: 1000px;
+}
+.x6{
+    background-color:  blue;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    bottom: 120px;
+    left: 500px;
+    border-radius: 1000px;
+}
